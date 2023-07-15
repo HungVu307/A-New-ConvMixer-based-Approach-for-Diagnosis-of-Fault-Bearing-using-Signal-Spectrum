@@ -13,9 +13,6 @@ Conv-Mixer includes Deptwise-Pointwise combined with Batch Normalization. Beside
 data set improves greatly when the proposed model is used in conjunction with the few-shot learning prediction approach. For instance, the proposed model
 achieves an accuracy of 95.48% with just 90 training samples, while all models A New ConvMixer-based Approach for Diagnosis of Fault Bearing 3 from earlier research achieve an accuracy of less than 92%. The proposed model has also been tested with having a spectrogram transform on the input and no spectrogram transform on the input on many instances of varying training samples
 ## Result
-![image](https://github.com/VuManhHung307201/bearing_faults_diagnosis/assets/106971509/2e2cff18-19e4-482e-b1d5-f47b463e3273)
+![image](https://github.com/VuManhHung307201/bearing_faults_diagnosis/assets/106971509/4c903c3e-f952-4b76-ade5-46f7bbe7821a)
+![image](https://github.com/VuManhHung307201/bearing_faults_diagnosis/assets/106971509/3c771828-ec32-4016-92d6-7c27dd1e2725)
 
-(a) Confusion matrix when training with 90 samples and (b) Visualization of data while training with 90 samples
-![image](https://github.com/VuManhHung307201/bearing_faults_diagnosis/assets/106971509/03d09fcf-668f-432a-af8e-1d6c8df978ed)
-
-(a) Confusion matrix when training with 19800 samples and (b) Visualization of data while training with 19800 samples
