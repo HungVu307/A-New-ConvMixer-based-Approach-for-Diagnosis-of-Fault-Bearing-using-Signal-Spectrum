@@ -14,5 +14,6 @@ data set improves greatly when the proposed model is used in conjunction with th
 achieves an accuracy of 95.48% with just 90 training samples, while all models A New ConvMixer-based Approach for Diagnosis of Fault Bearing 3 from earlier research achieve an accuracy of less than 92%. The proposed model has also been tested with having a spectrogram transform on the input and no spectrogram transform on the input on many instances of varying training samples
 ## Result
 ![image](https://github.com/VuManhHung307201/bearing_faults_diagnosis/assets/106971509/4c903c3e-f952-4b76-ade5-46f7bbe7821a)
+With just 77.39$\%$ accuracy with WDCNN and 80$\%$ accuracy using the Conv-Mixer model, traditional deep learning types for a small dataset produce unsatisfactory results. While the proposed scheme can achieve an accuracy of up to 95.48$\%$ with just 90 training samples. The presented method likewise performs well, responding with 99.84$\%$ accuracy when there are 19800 training samples. The suggested approach provides efficient results in both small and big data sets, in addition to providing superior outcomes for small data sets. 
 ![image](https://github.com/VuManhHung307201/bearing_faults_diagnosis/assets/106971509/3c771828-ec32-4016-92d6-7c27dd1e2725)
 
