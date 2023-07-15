@@ -29,4 +29,4 @@ enabled Convolutional Neural Network (SE-CNN) model mentioned in the [30]
 article has a 99.75% efficiency. As can be observed, our model performs well both
 with small amounts of data and with big amounts of data. The suggested model
 also offers excellent efficiency.
-#Citation
+# Citation
