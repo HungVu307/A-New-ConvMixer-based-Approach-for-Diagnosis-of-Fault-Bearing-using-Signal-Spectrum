@@ -1,6 +1,7 @@
 # A New ConvMixer-based Approach for Diagnosis of Fault Bearing using Signal Spectrum
 Our paper: [paper](https://link.springer.com/book/9783031368851?fbclid=IwAR0atikE0_rt3n1fmM5SZ0HuNpBfIKwcrrjYDCKUUdfUFjekMNhcAW79YJA)
 (This manuscript was accepted by CITA 2023)
+
 CWRU Dataset [Dataset CWRU](http://surl.li/jcnka)
 ## Abstract
 It has been reported that nearly 40% of electrical machine failures are caused by bearing problems. That is why identifying bearing failure is crucial. Deep learning for diagnosing bearing faults has been widely used, like WDCNN, Conv-mixer, and Siamese models. However, good diagnosis takes a significant quantity of training data. In order to overcome this, we propose a new approach that can dramatically improve training performance with a small data set. In particular, we propose to integrate the ConvMixer models to the backbone of Siamese network, and use the few-short learning for more accurate classification even with limited training data. Various experimental results with raw signal inputs and signal spectrum inputs are conducted, and compared with those from traditional models using the same data set provided by Case Western Reserve University (CWRU).
