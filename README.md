@@ -1,5 +1,5 @@
 # A New ConvMixer-based Approach for Diagnosis of Fault Bearing using Signal Spectrum
-Our paper: [paper]https://link.springer.com/chapter/10.1007/978-3-031-36886-8_1)
+Our paper: [paper](https://link.springer.com/chapter/10.1007/978-3-031-36886-8_1)
 (This manuscript was accepted by CITA 2023)
 
 CWRU Dataset [Dataset CWRU](http://surl.li/jcnka)
