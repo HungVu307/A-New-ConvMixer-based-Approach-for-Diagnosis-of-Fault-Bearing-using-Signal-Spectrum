@@ -35,17 +35,15 @@ article has a 99.75% efficiency. As can be observed, our model performs well bot
 with small amounts of data and with big amounts of data. The suggested model
 also offers excellent efficiency.
 # Citation
-@InProceedings{10.1007/978-3-031-36886-8_1,
-author="Vu, Manh-Hung
-and Nguyen, Van-Quang
-and Tran, Thi-Thao
-and Pham, Van-Truong",
-title="A New ConvMixer-Based Approach for Diagnosis of Fault Bearing Using Signal Spectrum",
-booktitle="The 12th Conference on Information Technology and Its Applications",
-year="2023",
-publisher="Springer Nature Switzerland",
-address="Cham",
-pages="3--14",
+If you find the code useful for your work, please cite as
+
+@inproceedings{vu2023new,
+  title={A New ConvMixer-Based Approach for Diagnosis of Fault Bearing Using Signal Spectrum},
+  author={Vu, Manh-Hung and Nguyen, Van-Quang and Tran, Thi-Thao and Pham, Van-Truong},
+  booktitle={Conference on Information Technology and its Applications},
+  pages={3--14},
+  year={2023},
+  organization={Springer}
 }
 
 
