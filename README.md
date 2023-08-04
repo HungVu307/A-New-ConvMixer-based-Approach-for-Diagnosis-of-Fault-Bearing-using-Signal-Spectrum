@@ -34,9 +34,11 @@ enabled Convolutional Neural Network (SE-CNN) model mentioned in the [30]
 article has a 99.75% efficiency. As can be observed, our model performs well both
 with small amounts of data and with big amounts of data. The suggested model
 also offers excellent efficiency.
-# Citation
+## Citation
+
 If you find the code useful for your work, please cite as
 
+```bibtex
 @inproceedings{vu2023new,
   title={A New ConvMixer-Based Approach for Diagnosis of Fault Bearing Using Signal Spectrum},
   author={Vu, Manh-Hung and Nguyen, Van-Quang and Tran, Thi-Thao and Pham, Van-Truong},
