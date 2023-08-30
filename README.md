@@ -39,11 +39,11 @@ also offers excellent efficiency.
 If you find the code useful for your work, please cite as
 
 ```bibtex
-@inproceedings{vu2023new,
-  title={A New ConvMixer-Based Approach for Diagnosis of Fault Bearing Using Signal Spectrum},
-  author={Vu, Manh-Hung and Nguyen, Van-Quang and Tran, Thi-Thao and Pham, Van-Truong},
-  booktitle={Conference on Information Technology and its Applications},
-  pages={3--14},
+@inproceedings{cao2023formation,
+  title={Formation Control Scheme of Multiple Surface Vessels with Model Predictive Technique},
+  author={Cao, Thanh Trung and Vu, Manh Hung and Nguyen, Van Chung and Nguyen, The Anh and Dao, Phuong Nam},
+  booktitle={The International Conference on Intelligent Systems \& Networks},
+  pages={312--317},
   year={2023},
   organization={Springer}
 }
